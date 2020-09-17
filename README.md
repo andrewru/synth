@@ -1,6 +1,13 @@
+## Getting started
+
+* Run `yarn`
+* Run `yarn start`
+
+## Background
+
 https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Simple_synth
 
-Potential tasks:
+## Potential tasks:
 
 Basic/introductory tasks
 
